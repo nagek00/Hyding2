@@ -2,3 +2,4 @@ figures/
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
+data/notebook_cache/ts_index_*.csv
